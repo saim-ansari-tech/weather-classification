@@ -15,7 +15,8 @@ features. The model is deployed as an interactive web app using Streamlit.
 
 ## 🚀 Live Demo
 
-> Run locally using the steps below.
+> Run locally 
+https://weather-classification-2zx6bjpx3apxmnuatkju5k.streamlit.app/
 
 ---
 
