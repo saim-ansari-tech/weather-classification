@@ -26,7 +26,6 @@ https://weather-classification-2zx6bjpx3apxmnuatkju5k.streamlit.app/
 |---|---|
 | Algorithm | Decision Tree Classifier |
 | Test Accuracy | 93% |
-| Encoding | One-Hot Encoding for Location |
 | Library | Scikit-learn |
 
 ---
